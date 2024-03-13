@@ -11,7 +11,15 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "cSpell.words": ["biomejs", "mantine", "nextjs", "tabler", "webp"],
+  "cSpell.words": [
+    "biomejs",
+    "Josefin",
+    "lucide",
+    "mantine",
+    "nextjs",
+    "tabler",
+    "webp"
+  ],
   "cssVariables.lookupFiles": [
     "**/*.css",
     "**/*.scss",
