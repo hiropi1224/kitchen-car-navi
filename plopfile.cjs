@@ -34,12 +34,12 @@ module.exports = (
           actions.push(
             {
               type: "add",
-              path: "app/{{path}}/{{name}}/index.tsx",
+              path: "components/{{path}}/{{name}}/index.tsx",
               templateFile: "generators/component/index.ts.hbs",
             },
             {
               type: "add",
-              path: "app/{{path}}/{{name}}/{{name}}.tsx",
+              path: "components/{{path}}/{{name}}/{{name}}.tsx",
               templateFile: "generators/component/sc.tsx.hbs",
             },
           );
