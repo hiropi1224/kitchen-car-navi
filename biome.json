@@ -16,8 +16,7 @@
       "nursery": {
         "all": true,
         "noNodejsModules": "off",
-        "noUndeclaredDependencies": "off",
-        "noBarrelFile": "off"
+        "noUndeclaredDependencies": "off"
       }
     }
   },
